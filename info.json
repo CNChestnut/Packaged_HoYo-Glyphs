@@ -1,0 +1,287 @@
+{
+  "author": "github.com/CNChestnut",
+  "font_file_update_time": "2024-5-1",
+  "info_file_build_time": "Wed May 01 2024 21:11:16 GMT+0800 (中国标准时间)",
+  "data": [
+    {
+      "name": "Deshret Neue",
+      "game": "Genshin",
+      "files": [
+        {
+          "file_path": "Genshin\\Deshret Neue\\DeshretNeue-Regular-1.002.otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "name": "Inazuma Neue",
+      "game": "Genshin",
+      "files": [
+        {
+          "file_path": "Genshin\\Inazuma Neue\\InazumaNeue-Regular-1.000.otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "name": "Khaenriah Neue",
+      "game": "Genshin",
+      "files": [
+        {
+          "file_path": "Genshin\\Khaenriah Neue\\KhaenriahNeue-Regular-2.000.otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "name": "Khaenriah Neue (Chasm)",
+      "game": "Genshin",
+      "files": [
+        {
+          "file_path": "Genshin\\Khaenriah Neue (Chasm)\\KhaenriahNeue-Chasm-2.000.otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "name": "Sumeru Neue",
+      "game": "Genshin",
+      "files": [
+        {
+          "file_path": "Genshin\\Sumeru Neue\\SumeruNeue-Regular-0.007.otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "name": "Teyvat Black",
+      "game": "Genshin",
+      "files": [
+        {
+          "file_path": "Genshin\\Teyvat Black\\TeyvatBlack-Regular.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "Genshin\\Teyvat Black\\TeyvatBlack-Regular.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "Genshin\\Teyvat Black\\TeyvatBlack-Regular.woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Bold.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Bold.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Bold.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-ExtraLight.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-ExtraLight.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-ExtraLight.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Light.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Light.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Light.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Regular.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Regular.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Regular.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-SemiBold.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-SemiBold.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-SemiBold.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Bold.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Bold.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Bold.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-ExtraLight.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-ExtraLight.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-ExtraLight.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Light.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Light.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Light.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Regular.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Regular.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Regular.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-SemiBold.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-SemiBold.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-SemiBold.woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Bold.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Bold.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Bold.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-ExtraLight.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-ExtraLight.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-ExtraLight.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Light.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Light.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Light.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Regular.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Regular.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Regular.woff2",
+          "type": "woff2"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-SemiBold.otf",
+          "type": "otf"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-SemiBold.ttf",
+          "type": "ttf"
+        },
+        {
+          "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-SemiBold.woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "name": "ZZZ Neue VariantA",
+      "game": "ZZZ",
+      "files": [
+        {
+          "file_path": "ZZZ\\ZZZ Neue VariantA\\ZZZNeue-VariantA-0.003.otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "name": "ZZZ Neue VariantB",
+      "game": "ZZZ",
+      "files": [
+        {
+          "file_path": "ZZZ\\ZZZ Neue VariantB\\ZZZNeue-VariantB-0.003.otf",
+          "type": "otf"
+        }
+      ]
+    }
+  ]
+}

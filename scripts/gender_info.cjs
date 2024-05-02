@@ -20,11 +20,12 @@ function traverseFontsDir(dirPath, visualize = true) {
                 
                 // 构建字体数据结构
                 const fontData = {
-                    name: fontFamily,
+                    font_family_name: fontFamily,
                     game: game,
                     files: [
                         {
                             file_path: relativePath,
+                            font_name: relativePath.split("\\").pop().replace(".", "-"),
                             type: fileType
                         }
                     ]
@@ -38,7 +39,8 @@ function traverseFontsDir(dirPath, visualize = true) {
                 if (existingFont) {
                     existingFont.files.push({
                         file_path: relativePath,
-                        type: fileType
+                        // type: fileType
+                        // https://github.com/SpeedyOrc-C/HoYo-Glyphs/issues/18
                     });
                 } else {
                     fontsData.push(fontData);
@@ -49,17 +51,17 @@ function traverseFontsDir(dirPath, visualize = true) {
 
     traverse(dirPath);
 
-    // 可视化字体树形结构
+    //可视化字体树形结构
     if (visualize) {
-        console.log('字体树形结构：');
-        console.log('📚 Fonts');
-        fontsData.forEach(font => {
-            console.log(`  |-📁 ${font.game}/${font.name}`);
-            font.files.forEach(file => {
-                console.log(`      |-📄 ${file.file_path}`);
-            });
-        });
-
+    //     console.log('字体树形结构：');
+    //     console.log('📚 Fonts');
+    //     console.log(fontsData)
+    //     fontsData.forEach(font => {
+    //         console.log(`  |-📁 ${font.game}/${font.font_family_name}`);
+    //         font.files.forEach(file => {
+    //             console.log(`      |-📄 ${file.file_path}`);
+    //         });
+    //     });
         console.log('\n字体统计 Font Counter ：');
         Object.entries(fontCounts).forEach(([game, count]) => {
             console.log(`🎮 ${game}: ${count} 个字体 Fonts`);

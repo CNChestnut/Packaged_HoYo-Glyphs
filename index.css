@@ -1,0 +1,440 @@
+
+@font-face {
+    font-family: "DeshretNeue-Regular-otf";
+    src: url("./fonts/Genshin/Deshret Neue/DeshretNeue-Regular.otf");
+}
+.hoyo-glyphs-DeshretNeue-Regular-otf {
+    font-family: "DeshretNeue-Regular-otf";
+}
+
+@font-face {
+    font-family: "InazumaNeue-Regular-otf";
+    src: url("./fonts/Genshin/Inazuma Neue/InazumaNeue-Regular.otf");
+}
+.hoyo-glyphs-InazumaNeue-Regular-otf {
+    font-family: "InazumaNeue-Regular-otf";
+}
+
+@font-face {
+    font-family: "KhaenriahNeue-Regular-otf";
+    src: url("./fonts/Genshin/Khaenriah Neue/KhaenriahNeue-Regular.otf");
+}
+.hoyo-glyphs-KhaenriahNeue-Regular-otf {
+    font-family: "KhaenriahNeue-Regular-otf";
+}
+
+@font-face {
+    font-family: "KhaenriahNeue-Chasm-otf";
+    src: url("./fonts/Genshin/Khaenriah Neue (Chasm)/KhaenriahNeue-Chasm.otf");
+}
+.hoyo-glyphs-KhaenriahNeue-Chasm-otf {
+    font-family: "KhaenriahNeue-Chasm-otf";
+}
+
+@font-face {
+    font-family: "SumeruNeue-Regular-otf";
+    src: url("./fonts/Genshin/Sumeru Neue/SumeruNeue-Regular.otf");
+}
+.hoyo-glyphs-SumeruNeue-Regular-otf {
+    font-family: "SumeruNeue-Regular-otf";
+}
+
+@font-face {
+    font-family: "TeyvatBlack-Regular-otf";
+    src: url("./fonts/Genshin/Teyvat Black/TeyvatBlack-Regular.otf");
+}
+.hoyo-glyphs-TeyvatBlack-Regular-otf {
+    font-family: "TeyvatBlack-Regular-otf";
+}
+
+@font-face {
+    font-family: "TeyvatBlack-Regular-ttf";
+    src: url("./fonts/Genshin/Teyvat Black/TeyvatBlack-Regular.ttf");
+}
+.hoyo-glyphs-TeyvatBlack-Regular-ttf {
+    font-family: "TeyvatBlack-Regular-ttf";
+}
+
+@font-face {
+    font-family: "TeyvatBlack-Regular-woff2";
+    src: url("./fonts/Genshin/Teyvat Black/TeyvatBlack-Regular.woff2");
+}
+.hoyo-glyphs-TeyvatBlack-Regular-woff2 {
+    font-family: "TeyvatBlack-Regular-woff2";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-Bold-otf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-Bold.otf");
+}
+.hoyo-glyphs-StarRailNeue-Sans-Bold-otf {
+    font-family: "StarRailNeue-Sans-Bold-otf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-Bold-ttf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-Bold.ttf");
+}
+.hoyo-glyphs-StarRailNeue-Sans-Bold-ttf {
+    font-family: "StarRailNeue-Sans-Bold-ttf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-Bold-woff2";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-Bold.woff2");
+}
+.hoyo-glyphs-StarRailNeue-Sans-Bold-woff2 {
+    font-family: "StarRailNeue-Sans-Bold-woff2";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-ExtraLight-otf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-ExtraLight.otf");
+}
+.hoyo-glyphs-StarRailNeue-Sans-ExtraLight-otf {
+    font-family: "StarRailNeue-Sans-ExtraLight-otf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-ExtraLight-ttf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-ExtraLight.ttf");
+}
+.hoyo-glyphs-StarRailNeue-Sans-ExtraLight-ttf {
+    font-family: "StarRailNeue-Sans-ExtraLight-ttf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-ExtraLight-woff2";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-ExtraLight.woff2");
+}
+.hoyo-glyphs-StarRailNeue-Sans-ExtraLight-woff2 {
+    font-family: "StarRailNeue-Sans-ExtraLight-woff2";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-Light-otf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-Light.otf");
+}
+.hoyo-glyphs-StarRailNeue-Sans-Light-otf {
+    font-family: "StarRailNeue-Sans-Light-otf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-Light-ttf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-Light.ttf");
+}
+.hoyo-glyphs-StarRailNeue-Sans-Light-ttf {
+    font-family: "StarRailNeue-Sans-Light-ttf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-Light-woff2";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-Light.woff2");
+}
+.hoyo-glyphs-StarRailNeue-Sans-Light-woff2 {
+    font-family: "StarRailNeue-Sans-Light-woff2";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-Regular-otf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-Regular.otf");
+}
+.hoyo-glyphs-StarRailNeue-Sans-Regular-otf {
+    font-family: "StarRailNeue-Sans-Regular-otf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-Regular-ttf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-Regular.ttf");
+}
+.hoyo-glyphs-StarRailNeue-Sans-Regular-ttf {
+    font-family: "StarRailNeue-Sans-Regular-ttf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-Regular-woff2";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-Regular.woff2");
+}
+.hoyo-glyphs-StarRailNeue-Sans-Regular-woff2 {
+    font-family: "StarRailNeue-Sans-Regular-woff2";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-SemiBold-otf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-SemiBold.otf");
+}
+.hoyo-glyphs-StarRailNeue-Sans-SemiBold-otf {
+    font-family: "StarRailNeue-Sans-SemiBold-otf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-SemiBold-ttf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-SemiBold.ttf");
+}
+.hoyo-glyphs-StarRailNeue-Sans-SemiBold-ttf {
+    font-family: "StarRailNeue-Sans-SemiBold-ttf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Sans-SemiBold-woff2";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Sans-SemiBold.woff2");
+}
+.hoyo-glyphs-StarRailNeue-Sans-SemiBold-woff2 {
+    font-family: "StarRailNeue-Sans-SemiBold-woff2";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-Bold-otf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-Bold.otf");
+}
+.hoyo-glyphs-StarRailNeue-Serif-Bold-otf {
+    font-family: "StarRailNeue-Serif-Bold-otf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-Bold-ttf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-Bold.ttf");
+}
+.hoyo-glyphs-StarRailNeue-Serif-Bold-ttf {
+    font-family: "StarRailNeue-Serif-Bold-ttf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-Bold-woff2";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-Bold.woff2");
+}
+.hoyo-glyphs-StarRailNeue-Serif-Bold-woff2 {
+    font-family: "StarRailNeue-Serif-Bold-woff2";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-ExtraLight-otf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-ExtraLight.otf");
+}
+.hoyo-glyphs-StarRailNeue-Serif-ExtraLight-otf {
+    font-family: "StarRailNeue-Serif-ExtraLight-otf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-ExtraLight-ttf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-ExtraLight.ttf");
+}
+.hoyo-glyphs-StarRailNeue-Serif-ExtraLight-ttf {
+    font-family: "StarRailNeue-Serif-ExtraLight-ttf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-ExtraLight-woff2";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-ExtraLight.woff2");
+}
+.hoyo-glyphs-StarRailNeue-Serif-ExtraLight-woff2 {
+    font-family: "StarRailNeue-Serif-ExtraLight-woff2";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-Light-otf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-Light.otf");
+}
+.hoyo-glyphs-StarRailNeue-Serif-Light-otf {
+    font-family: "StarRailNeue-Serif-Light-otf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-Light-ttf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-Light.ttf");
+}
+.hoyo-glyphs-StarRailNeue-Serif-Light-ttf {
+    font-family: "StarRailNeue-Serif-Light-ttf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-Light-woff2";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-Light.woff2");
+}
+.hoyo-glyphs-StarRailNeue-Serif-Light-woff2 {
+    font-family: "StarRailNeue-Serif-Light-woff2";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-Regular-otf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-Regular.otf");
+}
+.hoyo-glyphs-StarRailNeue-Serif-Regular-otf {
+    font-family: "StarRailNeue-Serif-Regular-otf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-Regular-ttf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-Regular.ttf");
+}
+.hoyo-glyphs-StarRailNeue-Serif-Regular-ttf {
+    font-family: "StarRailNeue-Serif-Regular-ttf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-Regular-woff2";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-Regular.woff2");
+}
+.hoyo-glyphs-StarRailNeue-Serif-Regular-woff2 {
+    font-family: "StarRailNeue-Serif-Regular-woff2";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-SemiBold-otf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-SemiBold.otf");
+}
+.hoyo-glyphs-StarRailNeue-Serif-SemiBold-otf {
+    font-family: "StarRailNeue-Serif-SemiBold-otf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-SemiBold-ttf";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-SemiBold.ttf");
+}
+.hoyo-glyphs-StarRailNeue-Serif-SemiBold-ttf {
+    font-family: "StarRailNeue-Serif-SemiBold-ttf";
+}
+
+@font-face {
+    font-family: "StarRailNeue-Serif-SemiBold-woff2";
+    src: url("./fonts/HSR/StarRail Neue/StarRailNeue-Serif-SemiBold.woff2");
+}
+.hoyo-glyphs-StarRailNeue-Serif-SemiBold-woff2 {
+    font-family: "StarRailNeue-Serif-SemiBold-woff2";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-Bold-otf";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-Bold.otf");
+}
+.hoyo-glyphs-XianzhouSeal-Bold-otf {
+    font-family: "XianzhouSeal-Bold-otf";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-Bold-ttf";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-Bold.ttf");
+}
+.hoyo-glyphs-XianzhouSeal-Bold-ttf {
+    font-family: "XianzhouSeal-Bold-ttf";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-Bold-woff2";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-Bold.woff2");
+}
+.hoyo-glyphs-XianzhouSeal-Bold-woff2 {
+    font-family: "XianzhouSeal-Bold-woff2";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-ExtraLight-otf";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-ExtraLight.otf");
+}
+.hoyo-glyphs-XianzhouSeal-ExtraLight-otf {
+    font-family: "XianzhouSeal-ExtraLight-otf";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-ExtraLight-ttf";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-ExtraLight.ttf");
+}
+.hoyo-glyphs-XianzhouSeal-ExtraLight-ttf {
+    font-family: "XianzhouSeal-ExtraLight-ttf";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-ExtraLight-woff2";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-ExtraLight.woff2");
+}
+.hoyo-glyphs-XianzhouSeal-ExtraLight-woff2 {
+    font-family: "XianzhouSeal-ExtraLight-woff2";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-Light-otf";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-Light.otf");
+}
+.hoyo-glyphs-XianzhouSeal-Light-otf {
+    font-family: "XianzhouSeal-Light-otf";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-Light-ttf";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-Light.ttf");
+}
+.hoyo-glyphs-XianzhouSeal-Light-ttf {
+    font-family: "XianzhouSeal-Light-ttf";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-Light-woff2";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-Light.woff2");
+}
+.hoyo-glyphs-XianzhouSeal-Light-woff2 {
+    font-family: "XianzhouSeal-Light-woff2";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-Regular-otf";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-Regular.otf");
+}
+.hoyo-glyphs-XianzhouSeal-Regular-otf {
+    font-family: "XianzhouSeal-Regular-otf";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-Regular-ttf";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-Regular.ttf");
+}
+.hoyo-glyphs-XianzhouSeal-Regular-ttf {
+    font-family: "XianzhouSeal-Regular-ttf";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-Regular-woff2";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-Regular.woff2");
+}
+.hoyo-glyphs-XianzhouSeal-Regular-woff2 {
+    font-family: "XianzhouSeal-Regular-woff2";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-SemiBold-otf";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-SemiBold.otf");
+}
+.hoyo-glyphs-XianzhouSeal-SemiBold-otf {
+    font-family: "XianzhouSeal-SemiBold-otf";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-SemiBold-ttf";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-SemiBold.ttf");
+}
+.hoyo-glyphs-XianzhouSeal-SemiBold-ttf {
+    font-family: "XianzhouSeal-SemiBold-ttf";
+}
+
+@font-face {
+    font-family: "XianzhouSeal-SemiBold-woff2";
+    src: url("./fonts/HSR/Xianzhou Seal/XianzhouSeal-SemiBold.woff2");
+}
+.hoyo-glyphs-XianzhouSeal-SemiBold-woff2 {
+    font-family: "XianzhouSeal-SemiBold-woff2";
+}
+
+@font-face {
+    font-family: "ZZZNeue-VariantA-otf";
+    src: url("./fonts/ZZZ/ZZZ Neue VariantA/ZZZNeue-VariantA.otf");
+}
+.hoyo-glyphs-ZZZNeue-VariantA-otf {
+    font-family: "ZZZNeue-VariantA-otf";
+}
+
+@font-face {
+    font-family: "ZZZNeue-VariantB-otf";
+    src: url("./fonts/ZZZ/ZZZ Neue VariantB/ZZZNeue-VariantB.otf");
+}
+.hoyo-glyphs-ZZZNeue-VariantB-otf {
+    font-family: "ZZZNeue-VariantB-otf";
+}

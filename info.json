@@ -1,284 +1,610 @@
 {
   "author": "github.com/CNChestnut",
+  "file_raw_repo": "https://github.com/SpeedyOrc-C/HoYo-Glyphs/",
   "font_file_update_time": "2024-5-1",
-  "info_file_build_time": "Wed May 01 2024 21:11:16 GMT+0800 (中国标准时间)",
+  "info_file_build_time": "Thu May 02 2024 14:07:45 GMT+0800 (中国标准时间)",
   "data": [
     {
-      "name": "Deshret Neue",
+      "font_family_name": "Deshret Neue",
       "game": "Genshin",
       "files": [
         {
-          "file_path": "Genshin\\Deshret Neue\\DeshretNeue-Regular-1.002.otf",
+          "file_path": "Genshin\\Deshret Neue\\DeshretNeue-Regular.otf",
+          "font_name": "DeshretNeue-Regular-otf",
           "type": "otf"
         }
       ]
     },
     {
-      "name": "Inazuma Neue",
+      "font_family_name": "Inazuma Neue",
       "game": "Genshin",
       "files": [
         {
-          "file_path": "Genshin\\Inazuma Neue\\InazumaNeue-Regular-1.000.otf",
+          "file_path": "Genshin\\Inazuma Neue\\InazumaNeue-Regular.otf",
+          "font_name": "InazumaNeue-Regular-otf",
           "type": "otf"
         }
       ]
     },
     {
-      "name": "Khaenriah Neue",
+      "font_family_name": "Khaenriah Neue",
       "game": "Genshin",
       "files": [
         {
-          "file_path": "Genshin\\Khaenriah Neue\\KhaenriahNeue-Regular-2.000.otf",
+          "file_path": "Genshin\\Khaenriah Neue\\KhaenriahNeue-Regular.otf",
+          "font_name": "KhaenriahNeue-Regular-otf",
           "type": "otf"
         }
       ]
     },
     {
-      "name": "Khaenriah Neue (Chasm)",
+      "font_family_name": "Khaenriah Neue (Chasm)",
       "game": "Genshin",
       "files": [
         {
-          "file_path": "Genshin\\Khaenriah Neue (Chasm)\\KhaenriahNeue-Chasm-2.000.otf",
+          "file_path": "Genshin\\Khaenriah Neue (Chasm)\\KhaenriahNeue-Chasm.otf",
+          "font_name": "KhaenriahNeue-Chasm-otf",
           "type": "otf"
         }
       ]
     },
     {
-      "name": "Sumeru Neue",
+      "font_family_name": "Sumeru Neue",
       "game": "Genshin",
       "files": [
         {
-          "file_path": "Genshin\\Sumeru Neue\\SumeruNeue-Regular-0.007.otf",
+          "file_path": "Genshin\\Sumeru Neue\\SumeruNeue-Regular.otf",
+          "font_name": "SumeruNeue-Regular-otf",
           "type": "otf"
         }
       ]
     },
     {
-      "name": "Teyvat Black",
+      "font_family_name": "Teyvat Black",
       "game": "Genshin",
       "files": [
         {
           "file_path": "Genshin\\Teyvat Black\\TeyvatBlack-Regular.otf",
+          "font_name": "TeyvatBlack-Regular-otf",
           "type": "otf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Teyvat Black",
+      "game": "Genshin",
+      "files": [
         {
           "file_path": "Genshin\\Teyvat Black\\TeyvatBlack-Regular.ttf",
+          "font_name": "TeyvatBlack-Regular-ttf",
           "type": "ttf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Teyvat Black",
+      "game": "Genshin",
+      "files": [
         {
           "file_path": "Genshin\\Teyvat Black\\TeyvatBlack-Regular.woff2",
+          "font_name": "TeyvatBlack-Regular-woff2",
           "type": "woff2"
         }
       ]
     },
     {
-      "name": "StarRail Neue",
+      "font_family_name": "StarRail Neue",
       "game": "HSR",
       "files": [
         {
           "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Bold.otf",
+          "font_name": "StarRailNeue-Sans-Bold-otf",
           "type": "otf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Bold.ttf",
+          "font_name": "StarRailNeue-Sans-Bold-ttf",
           "type": "ttf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Bold.woff2",
-          "type": "woff2"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-ExtraLight.otf",
-          "type": "otf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-ExtraLight.ttf",
-          "type": "ttf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-ExtraLight.woff2",
-          "type": "woff2"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Light.otf",
-          "type": "otf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Light.ttf",
-          "type": "ttf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Light.woff2",
-          "type": "woff2"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Regular.otf",
-          "type": "otf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Regular.ttf",
-          "type": "ttf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Regular.woff2",
-          "type": "woff2"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-SemiBold.otf",
-          "type": "otf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-SemiBold.ttf",
-          "type": "ttf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-SemiBold.woff2",
-          "type": "woff2"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Bold.otf",
-          "type": "otf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Bold.ttf",
-          "type": "ttf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Bold.woff2",
-          "type": "woff2"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-ExtraLight.otf",
-          "type": "otf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-ExtraLight.ttf",
-          "type": "ttf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-ExtraLight.woff2",
-          "type": "woff2"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Light.otf",
-          "type": "otf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Light.ttf",
-          "type": "ttf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Light.woff2",
-          "type": "woff2"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Regular.otf",
-          "type": "otf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Regular.ttf",
-          "type": "ttf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Regular.woff2",
-          "type": "woff2"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-SemiBold.otf",
-          "type": "otf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-SemiBold.ttf",
-          "type": "ttf"
-        },
-        {
-          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-SemiBold.woff2",
+          "font_name": "StarRailNeue-Sans-Bold-woff2",
           "type": "woff2"
         }
       ]
     },
     {
-      "name": "Xianzhou Seal",
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-ExtraLight.otf",
+          "font_name": "StarRailNeue-Sans-ExtraLight-otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-ExtraLight.ttf",
+          "font_name": "StarRailNeue-Sans-ExtraLight-ttf",
+          "type": "ttf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-ExtraLight.woff2",
+          "font_name": "StarRailNeue-Sans-ExtraLight-woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Light.otf",
+          "font_name": "StarRailNeue-Sans-Light-otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Light.ttf",
+          "font_name": "StarRailNeue-Sans-Light-ttf",
+          "type": "ttf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Light.woff2",
+          "font_name": "StarRailNeue-Sans-Light-woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Regular.otf",
+          "font_name": "StarRailNeue-Sans-Regular-otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Regular.ttf",
+          "font_name": "StarRailNeue-Sans-Regular-ttf",
+          "type": "ttf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-Regular.woff2",
+          "font_name": "StarRailNeue-Sans-Regular-woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-SemiBold.otf",
+          "font_name": "StarRailNeue-Sans-SemiBold-otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-SemiBold.ttf",
+          "font_name": "StarRailNeue-Sans-SemiBold-ttf",
+          "type": "ttf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Sans-SemiBold.woff2",
+          "font_name": "StarRailNeue-Sans-SemiBold-woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Bold.otf",
+          "font_name": "StarRailNeue-Serif-Bold-otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Bold.ttf",
+          "font_name": "StarRailNeue-Serif-Bold-ttf",
+          "type": "ttf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Bold.woff2",
+          "font_name": "StarRailNeue-Serif-Bold-woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-ExtraLight.otf",
+          "font_name": "StarRailNeue-Serif-ExtraLight-otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-ExtraLight.ttf",
+          "font_name": "StarRailNeue-Serif-ExtraLight-ttf",
+          "type": "ttf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-ExtraLight.woff2",
+          "font_name": "StarRailNeue-Serif-ExtraLight-woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Light.otf",
+          "font_name": "StarRailNeue-Serif-Light-otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Light.ttf",
+          "font_name": "StarRailNeue-Serif-Light-ttf",
+          "type": "ttf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Light.woff2",
+          "font_name": "StarRailNeue-Serif-Light-woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Regular.otf",
+          "font_name": "StarRailNeue-Serif-Regular-otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Regular.ttf",
+          "font_name": "StarRailNeue-Serif-Regular-ttf",
+          "type": "ttf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-Regular.woff2",
+          "font_name": "StarRailNeue-Serif-Regular-woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-SemiBold.otf",
+          "font_name": "StarRailNeue-Serif-SemiBold-otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-SemiBold.ttf",
+          "font_name": "StarRailNeue-Serif-SemiBold-ttf",
+          "type": "ttf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "StarRail Neue",
+      "game": "HSR",
+      "files": [
+        {
+          "file_path": "HSR\\StarRail Neue\\StarRailNeue-Serif-SemiBold.woff2",
+          "font_name": "StarRailNeue-Serif-SemiBold-woff2",
+          "type": "woff2"
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
       "game": "HSR",
       "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Bold.otf",
+          "font_name": "XianzhouSeal-Bold-otf",
           "type": "otf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Bold.ttf",
+          "font_name": "XianzhouSeal-Bold-ttf",
           "type": "ttf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Bold.woff2",
+          "font_name": "XianzhouSeal-Bold-woff2",
           "type": "woff2"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-ExtraLight.otf",
+          "font_name": "XianzhouSeal-ExtraLight-otf",
           "type": "otf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-ExtraLight.ttf",
+          "font_name": "XianzhouSeal-ExtraLight-ttf",
           "type": "ttf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-ExtraLight.woff2",
+          "font_name": "XianzhouSeal-ExtraLight-woff2",
           "type": "woff2"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Light.otf",
+          "font_name": "XianzhouSeal-Light-otf",
           "type": "otf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Light.ttf",
+          "font_name": "XianzhouSeal-Light-ttf",
           "type": "ttf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Light.woff2",
+          "font_name": "XianzhouSeal-Light-woff2",
           "type": "woff2"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Regular.otf",
+          "font_name": "XianzhouSeal-Regular-otf",
           "type": "otf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Regular.ttf",
+          "font_name": "XianzhouSeal-Regular-ttf",
           "type": "ttf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-Regular.woff2",
+          "font_name": "XianzhouSeal-Regular-woff2",
           "type": "woff2"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-SemiBold.otf",
+          "font_name": "XianzhouSeal-SemiBold-otf",
           "type": "otf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-SemiBold.ttf",
+          "font_name": "XianzhouSeal-SemiBold-ttf",
           "type": "ttf"
-        },
+        }
+      ]
+    },
+    {
+      "font_family_name": "Xianzhou Seal",
+      "game": "HSR",
+      "files": [
         {
           "file_path": "HSR\\Xianzhou Seal\\XianzhouSeal-SemiBold.woff2",
+          "font_name": "XianzhouSeal-SemiBold-woff2",
           "type": "woff2"
         }
       ]
     },
     {
-      "name": "ZZZ Neue VariantA",
+      "font_family_name": "ZZZ Neue VariantA",
       "game": "ZZZ",
       "files": [
         {
-          "file_path": "ZZZ\\ZZZ Neue VariantA\\ZZZNeue-VariantA-0.003.otf",
+          "file_path": "ZZZ\\ZZZ Neue VariantA\\ZZZNeue-VariantA.otf",
+          "font_name": "ZZZNeue-VariantA-otf",
           "type": "otf"
         }
       ]
     },
     {
-      "name": "ZZZ Neue VariantB",
+      "font_family_name": "ZZZ Neue VariantB",
       "game": "ZZZ",
       "files": [
         {
-          "file_path": "ZZZ\\ZZZ Neue VariantB\\ZZZNeue-VariantB-0.003.otf",
+          "file_path": "ZZZ\\ZZZ Neue VariantB\\ZZZNeue-VariantB.otf",
+          "font_name": "ZZZNeue-VariantB-otf",
           "type": "otf"
         }
       ]

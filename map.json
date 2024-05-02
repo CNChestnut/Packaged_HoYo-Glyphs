@@ -1,0 +1,277 @@
+[
+    {
+        "font_name": "DeshretNeue-Regular-otf",
+        "font_family_name": "Deshret Neue",
+        "font_css_tag_name": "hoyo-glyphs-DeshretNeue-Regular-otf"
+    },
+    {
+        "font_name": "InazumaNeue-Regular-otf",
+        "font_family_name": "Inazuma Neue",
+        "font_css_tag_name": "hoyo-glyphs-InazumaNeue-Regular-otf"
+    },
+    {
+        "font_name": "KhaenriahNeue-Regular-otf",
+        "font_family_name": "Khaenriah Neue",
+        "font_css_tag_name": "hoyo-glyphs-KhaenriahNeue-Regular-otf"
+    },
+    {
+        "font_name": "KhaenriahNeue-Chasm-otf",
+        "font_family_name": "Khaenriah Neue (Chasm)",
+        "font_css_tag_name": "hoyo-glyphs-KhaenriahNeue-Chasm-otf"
+    },
+    {
+        "font_name": "SumeruNeue-Regular-otf",
+        "font_family_name": "Sumeru Neue",
+        "font_css_tag_name": "hoyo-glyphs-SumeruNeue-Regular-otf"
+    },
+    {
+        "font_name": "TeyvatBlack-Regular-otf",
+        "font_family_name": "Teyvat Black",
+        "font_css_tag_name": "hoyo-glyphs-TeyvatBlack-Regular-otf"
+    },
+    {
+        "font_name": "TeyvatBlack-Regular-ttf",
+        "font_family_name": "Teyvat Black",
+        "font_css_tag_name": "hoyo-glyphs-TeyvatBlack-Regular-ttf"
+    },
+    {
+        "font_name": "TeyvatBlack-Regular-woff2",
+        "font_family_name": "Teyvat Black",
+        "font_css_tag_name": "hoyo-glyphs-TeyvatBlack-Regular-woff2"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-Bold-otf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-Bold-otf"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-Bold-ttf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-Bold-ttf"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-Bold-woff2",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-Bold-woff2"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-ExtraLight-otf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-ExtraLight-otf"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-ExtraLight-ttf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-ExtraLight-ttf"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-ExtraLight-woff2",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-ExtraLight-woff2"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-Light-otf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-Light-otf"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-Light-ttf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-Light-ttf"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-Light-woff2",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-Light-woff2"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-Regular-otf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-Regular-otf"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-Regular-ttf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-Regular-ttf"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-Regular-woff2",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-Regular-woff2"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-SemiBold-otf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-SemiBold-otf"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-SemiBold-ttf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-SemiBold-ttf"
+    },
+    {
+        "font_name": "StarRailNeue-Sans-SemiBold-woff2",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Sans-SemiBold-woff2"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-Bold-otf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-Bold-otf"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-Bold-ttf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-Bold-ttf"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-Bold-woff2",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-Bold-woff2"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-ExtraLight-otf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-ExtraLight-otf"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-ExtraLight-ttf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-ExtraLight-ttf"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-ExtraLight-woff2",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-ExtraLight-woff2"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-Light-otf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-Light-otf"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-Light-ttf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-Light-ttf"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-Light-woff2",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-Light-woff2"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-Regular-otf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-Regular-otf"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-Regular-ttf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-Regular-ttf"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-Regular-woff2",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-Regular-woff2"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-SemiBold-otf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-SemiBold-otf"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-SemiBold-ttf",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-SemiBold-ttf"
+    },
+    {
+        "font_name": "StarRailNeue-Serif-SemiBold-woff2",
+        "font_family_name": "StarRail Neue",
+        "font_css_tag_name": "hoyo-glyphs-StarRailNeue-Serif-SemiBold-woff2"
+    },
+    {
+        "font_name": "XianzhouSeal-Bold-otf",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-Bold-otf"
+    },
+    {
+        "font_name": "XianzhouSeal-Bold-ttf",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-Bold-ttf"
+    },
+    {
+        "font_name": "XianzhouSeal-Bold-woff2",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-Bold-woff2"
+    },
+    {
+        "font_name": "XianzhouSeal-ExtraLight-otf",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-ExtraLight-otf"
+    },
+    {
+        "font_name": "XianzhouSeal-ExtraLight-ttf",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-ExtraLight-ttf"
+    },
+    {
+        "font_name": "XianzhouSeal-ExtraLight-woff2",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-ExtraLight-woff2"
+    },
+    {
+        "font_name": "XianzhouSeal-Light-otf",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-Light-otf"
+    },
+    {
+        "font_name": "XianzhouSeal-Light-ttf",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-Light-ttf"
+    },
+    {
+        "font_name": "XianzhouSeal-Light-woff2",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-Light-woff2"
+    },
+    {
+        "font_name": "XianzhouSeal-Regular-otf",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-Regular-otf"
+    },
+    {
+        "font_name": "XianzhouSeal-Regular-ttf",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-Regular-ttf"
+    },
+    {
+        "font_name": "XianzhouSeal-Regular-woff2",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-Regular-woff2"
+    },
+    {
+        "font_name": "XianzhouSeal-SemiBold-otf",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-SemiBold-otf"
+    },
+    {
+        "font_name": "XianzhouSeal-SemiBold-ttf",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-SemiBold-ttf"
+    },
+    {
+        "font_name": "XianzhouSeal-SemiBold-woff2",
+        "font_family_name": "Xianzhou Seal",
+        "font_css_tag_name": "hoyo-glyphs-XianzhouSeal-SemiBold-woff2"
+    },
+    {
+        "font_name": "ZZZNeue-VariantA-otf",
+        "font_family_name": "ZZZ Neue VariantA",
+        "font_css_tag_name": "hoyo-glyphs-ZZZNeue-VariantA-otf"
+    },
+    {
+        "font_name": "ZZZNeue-VariantB-otf",
+        "font_family_name": "ZZZ Neue VariantB",
+        "font_css_tag_name": "hoyo-glyphs-ZZZNeue-VariantB-otf"
+    }
+]

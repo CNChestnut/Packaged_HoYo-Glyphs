@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // 遍历目录并构建数据结构
-function traverseFontsDir(dirPath, visualize = true) {
+function traverseFontsDir(dirPath) {
     const fontsData = [];
     const fontCounts = {};
 
@@ -50,23 +50,6 @@ function traverseFontsDir(dirPath, visualize = true) {
     }
 
     traverse(dirPath);
-
-    //可视化字体树形结构
-    if (visualize) {
-    //     console.log('字体树形结构：');
-    //     console.log('📚 Fonts');
-    //     console.log(fontsData)
-    //     fontsData.forEach(font => {
-    //         console.log(`  |-📁 ${font.game}/${font.font_family_name}`);
-    //         font.files.forEach(file => {
-    //             console.log(`      |-📄 ${file.file_path}`);
-    //         });
-    //     });
-        console.log('\n字体统计 Font Counter ：');
-        Object.entries(fontCounts).forEach(([game, count]) => {
-            console.log(`🎮 ${game}: ${count} 个字体 Fonts`);
-        });
-    }
 
     return fontsData;
 }

@@ -2,7 +2,7 @@
   "author": "github.com/CNChestnut",
   "file_raw_repo": "https://github.com/SpeedyOrc-C/HoYo-Glyphs/",
   "font_file_update_time": "2024-5-1",
-  "info_file_build_time": "Thu May 02 2024 14:07:45 GMT+0800 (中国标准时间)",
+  "info_file_build_time": "Sun Jun 30 2024 14:59:38 GMT+0800 (中国标准时间)",
   "data": [
     {
       "font_family_name": "Deshret Neue",
@@ -12,6 +12,39 @@
           "file_path": "Genshin\\Deshret Neue\\DeshretNeue-Regular.otf",
           "font_name": "DeshretNeue-Regular-otf",
           "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "Font Ainee",
+      "game": "Genshin",
+      "files": [
+        {
+          "file_path": "Genshin\\Font Ainee\\FonteAinee-Regular.otf",
+          "font_name": "FonteAinee-Regular-otf",
+          "type": "otf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "Font Ainee",
+      "game": "Genshin",
+      "files": [
+        {
+          "file_path": "Genshin\\Font Ainee\\FonteAinee-Regular.ttf",
+          "font_name": "FonteAinee-Regular-ttf",
+          "type": "ttf"
+        }
+      ]
+    },
+    {
+      "font_family_name": "Font Ainee",
+      "game": "Genshin",
+      "files": [
+        {
+          "file_path": "Genshin\\Font Ainee\\FonteAinee-Regular.woff2",
+          "font_name": "FonteAinee-Regular-woff2",
+          "type": "woff2"
         }
       ]
     },

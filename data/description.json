@@ -1,0 +1,98 @@
+{
+    "DeshretNeue-Regular": {
+        "zh": "赤冠字母",
+        "en": "Deshret Alphabets"
+    },
+    "InazumaNeue-Regular": {
+        "zh": "稻妻字母",
+        "en": "Inazuma Alphabets"
+    },
+    "KhaenriahNeue-Regular": {
+        "zh": "坎瑞亚字母",
+        "en": "Khaenriah Alphabets"
+    },
+    "KhaenriahNeue-Chasm": {
+        "zh": "坎瑞亚字母（层岩巨渊变体）",
+        "en": "Khaenriah Alphabets (Chasm Variant)"
+    },
+    "SumeruNeue-Regular": {
+        "zh": "须弥字母",
+        "en": "Sumeru Alphabets"
+    },
+    "TeyvatBlack-Regular": {
+        "zh": "提瓦特通用文字",
+        "en": "Teyvar Common Text"
+    },
+    "StarRailNeue-Sans-Bold": {
+        "zh": "崩坏：星穹铁道字体 (Bold)（用于贝洛伯格、黑塔空间站以及用户界面内使用）",
+        "en": "Star Rail Neue Family (Bold) (Used in Belobog, Herta Space Station, and User Interface)"
+    },
+    "StarRailNeue-Sans-ExtraLight": {
+        "zh": "崩坏：星穹铁道字体 (ExtraLight)（用于贝洛伯格、黑塔空间站以及用户界面内使用）",
+        "en": "Star Rail Neue Family (ExtraLight) (Used in Belobog, Herta Space Station, and User Interface)"
+    },
+    "StarRailNeue-Sans-Light": {
+        "zh": "崩坏：星穹铁道字体 (Light)（用于贝洛伯格、黑塔空间站以及用户界面内使用）",
+        "en": "Star Rail Neue Family (Light) (Used in Belobog, Herta Space Station, and User Interface)"
+    },
+    "StarRailNeue-Sans-Regular": {
+        "zh": "崩坏：星穹铁道字体 (Regular)（用于贝洛伯格、黑塔空间站以及用户界面内使用）",
+        "en": "Star Rail Neue Family (Regular) (Used in Belobog, Herta Space Station, and User Interface)"
+    },
+    "StarRailNeue-Sans-SemiBold": {
+        "zh": "崩坏：星穹铁道字体 (SemiBold)（用于贝洛伯格、黑塔空间站以及用户界面内使用）",
+        "en": "Star Rail Neue Family (SemiBold) (Used in Belobog, Herta Space Station, and User Interface)"
+    },
+    "StarRailNeue-Serif-Bold": {
+        "zh": "崩坏：星穹铁道字体 (Serif Bold)（用于贝洛伯格、黑塔空间站以及用户界面内使用）",
+        "en": "Star Rail Neue Family (Serif Bold) (Used in Belobog, Herta Space Station, and User Interface)"
+    },
+    "StarRailNeue-Serif-ExtraLight": {
+        "zh": "崩坏：星穹铁道字体 (Serif ExtraLight)（用于贝洛伯格、黑塔空间站以及用户界面内使用）",
+        "en": "Star Rail Neue Family (Serif ExtraLight) (Used in Belobog, Herta Space Station, and User Interface)"
+    },
+    "StarRailNeue-Serif-Light": {
+        "zh": "崩坏：星穹铁道字体 (Serif Light)（用于贝洛伯格、黑塔空间站以及用户界面内使用）",
+        "en": "Star Rail Neue Family (Serif Light) (Used in Belobog, Herta Space Station, and User Interface)"
+    },
+    "StarRailNeue-Serif-Regular": {
+        "zh": "崩坏：星穹铁道字体 (Serif Regular)（用于贝洛伯格、黑塔空间站以及用户界面内使用）",
+        "en": "Star Rail Neue Family (Serif Regular) (Used in Belobog, Herta Space Station, and User Interface)"
+    },
+    "StarRailNeue-Serif-SemiBold": {
+        "zh": "崩坏：星穹铁道字体 (Serif SemiBold)（用于贝洛伯格、黑塔空间站以及用户界面内使用）",
+        "en": "Star Rail Neue Family (Serif SemiBold) (Used in Belobog, Herta Space Station, and User Interface)"
+    },
+    "XianzhouSeal-Bold": {
+        "zh": "仙舟字体 (Bold)（于仙舟的六艘船内使用）",
+        "en": "Xianzhou Seal (Bold) (Used within the Six Ships of Xianzhou)"
+    },
+    "XianzhouSeal-ExtraLight": {
+        "zh": "仙舟字体 (ExtraLight)（于仙舟的六艘船内使用）",
+        "en": "Xianzhou Seal (ExtraLight) (Used within the Six Ships of Xianzhou)"
+    },
+    "XianzhouSeal-Light": {
+        "zh": "仙舟字体 (Light)（于仙舟的六艘船内使用）",
+        "en": "Xianzhou Seal (Light) (Used within the Six Ships of Xianzhou)"
+    },
+    "XianzhouSeal-Regular": {
+        "zh": "仙舟字体 (Regular)（于仙舟的六艘船内使用）",
+        "en": "Xianzhou Seal (Regular) (Used within the Six Ships of Xianzhou)"
+    },
+    "XianzhouSeal-SemiBold": {
+        "zh": "仙舟字体 (SemiBold)（于仙舟的六艘船内使用）",
+        "en": "Xianzhou Seal (SemiBold) (Used within the Six Ships of Xianzhou)"
+    },
+    "ZZZNeue-VariantA": {
+        "zh": "绝区零字母一号变体",
+        "en": "ZZZ Neue Variant A"
+    },
+    "ZZZNeue-VariantB": {
+        "zh": "绝区零字母二号变体",
+        "en": "ZZZ Neue Variant B"
+    },
+    "FonteAinee-Regular": {
+        "zh": "",
+        "en": ""
+    }
+}

@@ -8,6 +8,30 @@
 }
 
 @font-face {
+    font-family: "FonteAinee-Regular-otf";
+    src: url("./fonts/Genshin/Font Ainee/FonteAinee-Regular.otf");
+}
+.hoyo-glyphs-FonteAinee-Regular-otf {
+    font-family: "FonteAinee-Regular-otf";
+}
+
+@font-face {
+    font-family: "FonteAinee-Regular-ttf";
+    src: url("./fonts/Genshin/Font Ainee/FonteAinee-Regular.ttf");
+}
+.hoyo-glyphs-FonteAinee-Regular-ttf {
+    font-family: "FonteAinee-Regular-ttf";
+}
+
+@font-face {
+    font-family: "FonteAinee-Regular-woff2";
+    src: url("./fonts/Genshin/Font Ainee/FonteAinee-Regular.woff2");
+}
+.hoyo-glyphs-FonteAinee-Regular-woff2 {
+    font-family: "FonteAinee-Regular-woff2";
+}
+
+@font-face {
     font-family: "InazumaNeue-Regular-otf";
     src: url("./fonts/Genshin/Inazuma Neue/InazumaNeue-Regular.otf");
 }
